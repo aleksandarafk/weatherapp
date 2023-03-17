@@ -7,6 +7,8 @@ Look up the weather for different locations around the world.
 ###### Responsive design
 Created for mobile phones, tablets, desktops and laptops.
 ### Used technologies
-The application was fully using HTML / CSS and JS
+The application was fully using HTML / CSS and JS.
 # Installation
-Clone the repository on your machine and simply open the index.html file. Do not forget to include your OpenWeatherMap API key. Otherwise, the app will not work.
+Clone the repository on your machine and simply open the index.html file. <br>
+Do not forget to include your OpenWeatherMap API key. <br>
+Otherwise, the app will not work.
